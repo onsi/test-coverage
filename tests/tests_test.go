@@ -6,6 +6,6 @@ import (
 	"github.com/onsi/test-coverage/A"
 )
 
-func TestAAndB(t *testing.T) {
+func TestA(t *testing.T) {
 	A.A()
 }
